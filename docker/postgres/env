@@ -1,0 +1,3 @@
+POSTGRES_USER=wallabag
+POSTGRES_PASSWORD=wallapass
+POSTGRES_DB=wallabag
